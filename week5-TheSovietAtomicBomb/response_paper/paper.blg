@@ -1,0 +1,5 @@
+[0] Config.pm:304> INFO - This is Biber 2.12
+[0] Config.pm:307> INFO - Logfile is 'paper.blg'
+[32] biber-darwin:315> INFO - === Mon Oct  5, 2020, 19:48:19
+[53] Biber.pm:371> INFO - Reading 'paper.bcf'
+[159] Utils.pm:193> WARN - No data sources defined!
