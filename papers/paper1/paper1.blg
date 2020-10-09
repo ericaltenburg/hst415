@@ -1,9 +1,0 @@
-[0] Config.pm:304> INFO - This is Biber 2.12
-[0] Config.pm:307> INFO - Logfile is 'paper1.blg'
-[36] biber-darwin:315> INFO - === Mon Sep 28, 2020, 22:43:01
-[61] Biber.pm:371> INFO - Reading 'paper1.bcf'
-[172] Biber.pm:889> INFO - Found 1 citekeys in bib section 0
-[183] Biber.pm:4093> INFO - Processing section 0
-[193] Biber.pm:4254> INFO - Looking for bibtex format file 'works-cited.bib' for section 0
-[320] Utils.pm:209> ERROR - Cannot find 'works-cited.bib'!
-[320] Biber.pm:114> INFO - ERRORS: 1
